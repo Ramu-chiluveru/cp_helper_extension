@@ -41,4 +41,4 @@ Click “Load unpacked”
 
 Select the extracted folder (cp-helper-extension/)
 
-✅ The extension will now appear in your toolbar!
+![screenshot][assets/s1.png]
