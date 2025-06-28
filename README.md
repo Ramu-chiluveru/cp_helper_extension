@@ -41,4 +41,6 @@ Click “Load unpacked”
 
 Select the extracted folder (cp-helper-extension/)
 
-![screenshot][assets/s1.png]
+![screenshot](assets/s1.png)
+![screenshot](assets/s2.png)
+![screenshot](assets/s3.png)
