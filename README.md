@@ -28,7 +28,7 @@ Free and open-source
 
 ## Instructions to setup
 Download the ZIP file from:
-[👉 Link to ZIP here]
+[https://github.com/Ramu-chiluveru/cp_helper_extension/blob/main/CP_helper_v1.zip]
 
 Extract the ZIP on your computer.
 
