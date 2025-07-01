@@ -1,9 +1,13 @@
 const prompts = {
-  lite: "Give a one-liner summary of this problem:\n{}",
-  mid: "Reword this competitive programming problem in a beginner-friendly way:\n{}",
-  full: "Explain this competitive programming problem as if to a 10-year-old:\n{}",
-  hints: "Give 2-3 subtle hints (not full solution) to solve this problem:\n{}"
+  lite: "Summarize the key idea of this competitive programming problem in one concise sentence:\n{}",
+
+  mid: "Rewrite this competitive programming problem in simpler, beginner-friendly language, avoiding technical jargon:\n{}",
+
+  full: "Explain this problem to a 10-year-old using very simple language, analogies, and examples where needed:\n{}",
+
+  hints: "Give 2 to 3 subtle hints that guide the user toward solving this problem. Mention helpful techniques (like binary search, prefix sum, greedy, etc.) or thought processes to consider, **without revealing the full solution**:\n{}"
 };
+
 
 function sendPrompt(level) {
   const resultEl = document.getElementById("result");
